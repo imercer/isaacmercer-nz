@@ -207,6 +207,10 @@ body .demo-blog {
 .demo-blog .nos .mdl-card__media {
   background-image: url('http://nos.net.nz/bg.jpg');
 }
+.demo-blog .scoreonline .mdl-card__media {
+  background-image: url('images/scoreonline.png');
+  background-position: bottom;
+}
 
 .demo-blog .something-else .mdl-card__media {
   display: -webkit-box;
