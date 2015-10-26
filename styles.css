@@ -210,6 +210,9 @@ body .demo-blog {
 .demo-blog .tollroad .mdl-card__media {
   background-image: url('/images/toll-road.jpg');
 }
+.demo-blog .nznews .mdl-card__media {
+  background-image: url('/images/news.jpg');
+}
 .demo-blog .scoreonline .mdl-card__media {
   background-image: url('images/scoreonline.PNG');
   background-position: bottom;
